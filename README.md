@@ -1,5 +1,7 @@
 # SDL2 Raycasting Engine
 
+Forked from [github.com/andrew-lim/sdl2-raycast](https://github.com/andrew-lim/sdl2-raycast)
+
 This was originally a port of [my HTML5 canvas version here](https://github.com/andrew-lim/html5-raycast). If you just want to learn basic floor/ceiling texture mapping in a raycaster, I recommend studying the HTML5 version. The code is easier to read and can be run in your browser.
 
 This C++ project has a few more features compared to the HTML5 version: vertical movement, wall top/bottom texture mapping, sprites and projectiles. There is also experimental support for thin angled walls and slopes.
